@@ -23,7 +23,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[robocontest-shield]: https://img.shields.io/badge/Robocontest--brightgreen?style=for-the-badge
+[robocontest-shield]: https://img.shields.io/badge/Robocontest-226-brightgreen?style=for-the-badge
 [robocontest-url]: https://robocontest.uz/profile/ssardorbeks
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/
